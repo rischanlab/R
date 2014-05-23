@@ -6,8 +6,9 @@ using R for data mining
 - User Behavior Analysis 
 
 
-Rischan Mafrur
-rischanlab.github.io
-ourmasjid.me
+Rischan Mafrur <br/>
+Chonnam National University of South Korea<br/>
+rischanlab.github.io<br/>
+ourmasjid.me<br/>
 24 May 2014
 
